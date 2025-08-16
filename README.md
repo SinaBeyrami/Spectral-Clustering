@@ -1,4 +1,4 @@
-# Spectral Clustering (CE282 — Final Project)
+# Spectral Clustering (Linear Algebra — Final Project)
 
 **Notebook:** `Spectral-Clustering.ipynb`
 **Student:** Mohammad Sina Beyrami — 400105433
